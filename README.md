@@ -1,4 +1,4 @@
-# Data-Manipolation-and-Visualization Project
+# Produzione e distribuzione mondiale di alimenti e l'impatto sull'ambiente
 La Commissione Mondiale sull’Ambiente e lo Sviluppo definisce lo sviluppo sostenibile come lo sviluppo che «soddisfa i bisogni del presente senza compromettere la capacità delle future generazioni di soddisfare i propri».
 
 La sostenibilità è un tema centrale che riguarda qualsiasi ambito.
